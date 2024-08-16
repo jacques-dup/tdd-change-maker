@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CocaCola",
+    "price": 5.9
+  },
+  {
+    "name": "Skittles",
+    "price": 2.5
+  },
+  {
+    "name": "Hotdog",
+    "price": 15
+  },
+  {
+    "name": "Sandwitch",
+    "price": 3.99
+  },
+  {
+    "name": "Milk",
+    "price": 3
+  },
+  {
+    "name": "Cheese",
+    "price": 28.3
+  }
+]
